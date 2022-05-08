@@ -92,5 +92,4 @@ void Scene_ExecuteChange(void)
 
 	// Ÿ‚ÌƒV[ƒ“‚Ì‰Šú‰»‚ğ‚·‚é
 	Scene_Initialize();
-
 }

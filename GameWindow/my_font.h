@@ -2,7 +2,7 @@
 
 	自作フォント表示処理　[my_font.h]
 
-													Author : Ryuichi Tsunoda
+													Author : Sai Hakusen
 													Date   : 2021 / 01 / 09
 ==============================================================================*/
 #ifndef MY_FONT_H_

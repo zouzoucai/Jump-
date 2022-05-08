@@ -27,18 +27,18 @@ typedef enum MenuMode_tag
 /*------------------------------------------------------------------------------
 	グローバル変数宣言
 ------------------------------------------------------------------------------*/
-static int g_TextureIdMenuBg = TEXTURE_INVALID_ID;//メニュー画面の背景
-static int g_TextureIdMenuStart = TEXTURE_INVALID_ID;//ステージ選択のメニューバー
-static int g_TextureIdMenuExplanation = TEXTURE_INVALID_ID;//操作説明のメニューバー
-static int g_TextureIdMenuSound = TEXTURE_INVALID_ID;//音声調整メニューバー
-static int g_TextureIdMenuMember = TEXTURE_INVALID_ID;//メンバー紹介メニューバー
-static int g_TextureIdMenuEnd = TEXTURE_INVALID_ID;//エンドメニューバー(//ウィンドウハンドルの取得方法がわかんないですので、ゲームの終了は作ってない)
-static int g_TextureIdMenuMark = TEXTURE_INVALID_ID;//マーク
-static int g_TextureIdTheStart = TEXTURE_INVALID_ID;//ステージ選択
-static int g_TextureIdTheExplanation = TEXTURE_INVALID_ID;//操作説明
-//static int g_TextureIdTheSound = TEXTURE_INVALID_ID;//音声調整
-static int g_TextureIdTheMember = TEXTURE_INVALID_ID;//メンバー紹介
-static int g_TextureIdMenuText = TEXTURE_INVALID_ID;//メニューの文字
+static int g_TextureIdMenuBg = TEXTURE_INVALID_ID;					//メニュー画面の背景
+static int g_TextureIdMenuStart = TEXTURE_INVALID_ID;				//ステージ選択のメニューバー
+static int g_TextureIdMenuExplanation = TEXTURE_INVALID_ID;			//操作説明のメニューバー
+static int g_TextureIdMenuSound = TEXTURE_INVALID_ID;				//音声調整メニューバー
+static int g_TextureIdMenuMember = TEXTURE_INVALID_ID;				//メンバー紹介メニューバー
+static int g_TextureIdMenuEnd = TEXTURE_INVALID_ID;					//エンドメニューバー(//ウィンドウハンドルの取得方法がわかんないですので、ゲームの終了は作ってない)
+static int g_TextureIdMenuMark = TEXTURE_INVALID_ID;				//マーク
+static int g_TextureIdTheStart = TEXTURE_INVALID_ID;				//ステージ選択
+static int g_TextureIdTheExplanation = TEXTURE_INVALID_ID;			//操作説明
+//static int g_TextureIdTheSound = TEXTURE_INVALID_ID;				//音声調整
+static int g_TextureIdTheMember = TEXTURE_INVALID_ID;				//メンバー紹介
+static int g_TextureIdMenuText = TEXTURE_INVALID_ID;				//メニューの文字
 static int g_MenuCount = 0;
 static D3DXVECTOR2 g_MenuMarkPosition = D3DXVECTOR2(0.0f, 0.0f);
 
