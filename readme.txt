@@ -3,7 +3,21 @@ Visual Studio
 Debug / Release
 x64
 
-ぐるねじマスタ版
+ぐるねじ
+
+Create by Sai hakusen:
+Fade.cpp/.h
+Game.cpp/.h
+Game_Bg.cpp/.h
+Game_Goal.cpp/.h
+Game_Pasue.cpp/.h
+Menu.cpp/.h
+my_font.cpp
+Result.cpp/.h
+Scene.cpp/.h
+Sprite.cpp/.h
+Title.cpp/.h
+画面遷移マシンや各自画面内の処理が担当しています。
 
 ■操作方法
 【メニューなどのゲーム以外の部分】
