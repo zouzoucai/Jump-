@@ -1,11 +1,13 @@
+ぐるねじ
+
+製作時間：2ヶ月
+
 実行環境
 Visual Studio 
 Debug / Release
 x64
 
-ぐるねじ
-
-Create by Sai hakusen:
+主に画面遷移マシンや各自画面内の処理が担当しています。
 Fade.cpp/.h
 Game.cpp/.h
 Game_Bg.cpp/.h
@@ -17,7 +19,7 @@ Result.cpp/.h
 Scene.cpp/.h
 Sprite.cpp/.h
 Title.cpp/.h
-主に画面遷移マシンや各自画面内の処理が担当しています。
+
 
 ■操作方法
 【メニューなどのゲーム以外の部分】
